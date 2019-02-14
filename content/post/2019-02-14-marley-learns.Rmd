@@ -1,0 +1,27 @@
+---
+title: Marley leaRns
+author: Marles
+date: '2019-02-14'
+slug: marley-learns
+categories: []
+tags: []
+---
+
+Here's a primer on Markdown:
+
+# sparkalisha
+
+Data blog yolo
+
+## Markdown
+
+Here's some **text** and *more*.
+
+[hypermelinks](www.google.com)
+
+![](https://i.stack.imgur.com/JowsQ.jpg)
+
+```r
+<img></img>
+```
+
